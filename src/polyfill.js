@@ -1,5 +1,6 @@
 /*
 * required polyfills
+for old browswers
 */
 import "core-js";
 import 'core-js/features/set/map';
