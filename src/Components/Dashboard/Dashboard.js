@@ -1,7 +1,7 @@
-import React, { Component, lazy } from 'react';
+import React, { Component} from 'react';
 import { Card, CardBody, CardHeader, Col, Row } from 'reactstrap';
 import { devices } from './../Devices/Component.Devices'
-import { version } from 'core-js';
+
 
 class Dashboard extends Component {
   constructor(props) {
@@ -45,7 +45,7 @@ class Dashboard extends Component {
   loading = () => <div className="animated fadeIn pt-1 text-center">Loading...</div>
 
   render() {
-    const { hostname, version, system_name, username } = this.state;
+    // const {  } = this.state;
     return (
       <div className="animated fadeIn">
 

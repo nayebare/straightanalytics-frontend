@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { AppAsideToggler, AppSidebarToggler} from '@coreui/react';
-import { Nav, NavItem} from 'reactstrap';
-import { Link, NavLink } from 'react-router-dom';
+import { AppSidebarToggler} from '@coreui/react';
 
 const propTypes = {
   children: PropTypes.node,

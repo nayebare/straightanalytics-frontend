@@ -15,8 +15,8 @@ class DefaultFooter extends Component {
 
     return (
       <React.Fragment>
-        <span><a href="https://coreui.io">fieldcloud SAS </a> &copy; 2020 fieldcloud.</span>
-        <span className="ml-auto">Powered by <a href="https://fieldcloud.com">fieldcloud SAS</a></span>
+        <span><a href="https://#">line-analytics LLC</a> &copy; 2023 line-analytics LLC.</span>
+        <span className="ml-auto">Powered by <a href="https://#">line-analytics LLC</a></span>
       </React.Fragment>
     );
   }
