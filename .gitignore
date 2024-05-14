@@ -187,6 +187,6 @@ settings.ini
 ##
 /flaskenv
 
-node_modules
+/node_modules
 node_modules
 node_modules
